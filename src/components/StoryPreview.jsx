@@ -1,5 +1,4 @@
-// Please uncomment the following line when starting Exercise 2. It is necessary to import React to use React Components.
-// import React from "react";
+import React from "react";
 
 /**
  * Exercise 2: Create Story Preview
@@ -17,7 +16,8 @@
  * Use props.storyIndex with storyData to get the relevant story data for the story preview.
  */
 const StoryPreview = props => {
-  // Your code here
+  // Your code here; feel free to replace the following line
+  return <div>Please replace me with a story preview :)</div>;
 };
 
 export default StoryPreview;

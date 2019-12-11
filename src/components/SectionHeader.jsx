@@ -17,6 +17,8 @@ import Container from "react-bootstrap/Container";
  * See if you can pass in properties from App.js to fill in section header properties such as date, temperature, and ST index here.
  * Properties can be accessed with "props.<property_name>"
  */
-const SectionHeader = props => <Container>{/* Your code here */}</Container>;
+const SectionHeader = props => (
+  <Container>Please replace me with your code :)</Container>
+);
 
 export default SectionHeader;
