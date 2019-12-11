@@ -4,11 +4,12 @@ This is the starter code for Rocket Academy's Intro to Software Engineering Work
 
 There is a bunch of scaffolding here for a Straits Times clone. Fill in the scaffolding and see how well you can clone Straits Times!
 
-For the purposes of this workshop, you will only need to modify the following files. You can ignore all other files.
+For the purposes of this workshop, you will only need to modify the following files. You can ignore all other files if you wish.
 
 * `App.js`
 * `App.css`
-* Everything in `src/components/*`
+* `SectionHeader.jsx`
+* `StoryPreview.jsx`
 
 ## Available Scripts
 
