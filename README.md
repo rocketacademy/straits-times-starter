@@ -6,10 +6,10 @@ There is a bunch of scaffolding here for a Straits Times clone. Fill in the scaf
 
 For the purposes of this workshop, you will only need to modify the following files. You can ignore all other files if you wish.
 
-* `App.js`
-* `App.css`
-* `SectionHeader.jsx`
-* `StoryPreview.jsx`
+* `src/App.js`
+* `src/App.css`
+* `src/components/SectionHeader.jsx`
+* `src/components/StoryPreview.jsx`
 
 ## Available Scripts
 
