@@ -1,9 +1,9 @@
 import React from "react";
 
 import Container from "react-bootstrap/Container";
-import NavDropdown from "react-bootstrap/NavDropdown";
 import Nav from "react-bootstrap/Nav";
 import Navbar from "react-bootstrap/Navbar";
+import NavDropdown from "react-bootstrap/NavDropdown";
 
 const NavigationBar = () => (
   <Navbar collapseOnSelect expand="md" sticky="top">

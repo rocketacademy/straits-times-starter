@@ -13,12 +13,8 @@ const App = () => (
     <PageHeader />
     <NavigationBar />
     <br />
-    <SectionHeader
-      headerText="TOP STORIES"
-      minTemp="29°C"
-      maxTemp="23°C"
-      stIndex="3,178.840"
-    />
+    {/* For Exercise 1, you may want to insert props in SectionHeader here */}
+    <SectionHeader />
     <StorySection />
   </div>
 );
